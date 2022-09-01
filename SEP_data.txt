@@ -1,0 +1,7 @@
+SEP
+  samp  OIL
+PLOT                                Yes       Yes       Yes       Yes 
+                PRES      TEMP      BO        GOR       DENO      GGRV
+                psig      degF      rb/stb      scf/stb      gm/cm3      dim 
+PSAT         4371.00    285.00    1.4910  815.0000    0.0000    0.0000
+                0.00     60.00    0.0000    0.0000    0.8631    0.7770

@@ -1,0 +1,8 @@
+SWELL
+samp  VolOil  sinj  GasCon  Tres  120.0  degC
+      MOLE
+      frac
+      0.0
+      0.2
+      0.4
+      0.6
